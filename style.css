@@ -43,7 +43,7 @@ html,body{
 }
 #center-nav>a{
     text-decoration: none;
-    color: black;
+    color: rgb(119, 223, 255);
     font-weight: 500;
     font-size: 18px;
 }
@@ -104,7 +104,7 @@ html,body{
 
 #button>b1{
     margin-left: 20px;
-    background-color: #c72fd4;
+    background-color: #9fff50;
 }
 #button>b2{
     margin-left: 20px;
@@ -121,7 +121,7 @@ html,body{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-color: #FCDA69;
+    background-color: #ffc832;
 }
 #page1>right{
       position: absolute;
@@ -265,7 +265,7 @@ html,body{
     padding: 0px 60px;
     height: 100vh;
     width: 100%;
-    background-color: #FCDA69;
+    background-color: #69fcfc;
 }
 #left1{
     
